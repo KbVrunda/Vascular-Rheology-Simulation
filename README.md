@@ -1,5 +1,5 @@
 # Carotid-Artery-Flow-Simulation
-Welcome to the Carotid Artery Flow Simulation project! This repository contains a 3D model of a carotid artery designed using SolidWorks. The primary objective of this project is to study fluid dynamics and hemodynamics within the carotid artery to detect four different stages of fibrillation that can occur in the artery. 
+Welcome to the Carotid Artery Flow Simulation project! This repository contains a 3D model of a carotid artery created using SolidWorks, along with fluid dynamics simulations performed within the software. The simulation aims to study the flow behavior and hemodynamics in the carotid artery, providing valuable insights into the cardiovascular system.
 
 Usage
 
