@@ -1,4 +1,4 @@
-# Carotid-Artery-Flow-Simulation
+# Vascular-Rheology-Simulation
 
 ## Description
 
